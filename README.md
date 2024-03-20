@@ -26,3 +26,8 @@ the answers to better meet the critic's criteria, allowing for an iterative conv
 
 
 
+## To run
+* clone the repository
+* activate a  `venv`
+* run `pip install -r requirements.txt`
+* run  `streamlit run play.py` to start the web interface to Nonty.
